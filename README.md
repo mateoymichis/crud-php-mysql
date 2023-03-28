@@ -8,6 +8,10 @@
 
 * Estilos con Bootstrap.
 
-Desarrollado por Mateo Fernandez.
+### Video utilizado como tutorial
+https://youtu.be/pn2v9lPakHQ
+
+
+## Desarrollado por Mateo Fernandez.
 
 <a href="https://mateofernandez.ar/">Mi portfolio</a>
